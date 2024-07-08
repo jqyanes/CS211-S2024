@@ -1,0 +1,65 @@
+8
+RESTOCK 12 In Utero
+RESTOCK 16 EXETER
+RESTOCK 14 Chromatica
+SALE 26 Chromatica
+SALE 44 Chromatica
+RESTOCK 9 Bleach
+SALE 6 EXETER
+SALE 6 Bleach
+SALE 27 Bleach
+SALE 5 Chromatica
+SALE 32 In Utero
+RESTOCK 13 how i'm feeling now
+SHOW_STOCK 0 how i'm feeling now
+RESTOCK 44 EXETER
+SALE 45 EXETER
+RESTOCK 39 Stratosphere
+SHOW_STOCK 0 Chromatica
+SALE 37 In Utero
+SALE 10 In Utero
+SALE 14 Stratosphere
+SALE 6 EXETER
+SALE 36 Chromatica
+RESTOCK 44 EXETER
+RESTOCK 21 In Utero
+SALE 10 how i'm feeling now
+RESTOCK 34 The OOZ
+SHOW_STOCK 0 Chromatica
+SALE 12 In Utero
+SALE 3 EXETER
+SALE 23 Bleach
+SALE 40 Chromatica
+SALE 30 Stratosphere
+SALE 35 In Utero
+RESTOCK 30 Wlfgrl
+SALE 9 Wlfgrl
+SALE 30 In Utero
+SALE 38 In Utero
+SHOW_STOCK 0 In Utero
+RESTOCK 49 The OOZ
+RESTOCK 16 Chromatica
+SALE 10 The OOZ
+RESTOCK 36 Stratosphere
+RESTOCK 42 Wlfgrl
+SALE 31 Wlfgrl
+SHOW_STOCK 0 Wlfgrl
+RESTOCK 31 how i'm feeling now
+SALE 26 In Utero
+SALE 20 The OOZ
+SALE 45 Utopia
+SALE 8 Chromatica
+SALE 23 how i'm feeling now
+RESTOCK 23 Utopia
+RESTOCK 13 Chromatica
+SHOW_STOCK 0 Icedancer
+RESTOCK 12 The OOZ
+SALE 13 EXETER
+RESTOCK 47 Stratosphere
+RESTOCK 25 The OOZ
+RESTOCK 27 Bleach
+SALE 5 Stratosphere
+SALE 43 Voulez-Vous
+RESTOCK 46 Bleach
+RESTOCK 8 In Utero
+SHOW_STOCK 0 In Utero

@@ -1,0 +1,257 @@
+32
+RESTOCK 12 Portishead
+RESTOCK 40 Portishead
+RESTOCK 22 how i'm feeling now
+SALE 43 Portishead
+SALE 13 Portishead
+SALE 2 how i'm feeling now
+RESTOCK 1 SAWAYAMA
+RESTOCK 2 Portishead
+RESTOCK 3 Back to Black
+RESTOCK 2 Voulez-Vous
+RESTOCK 6 Nevermind
+RESTOCK 4 Heaven or Las Vegas
+RESTOCK 38 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 33 how i'm feeling now
+SALE 12 Nevermind
+RESTOCK 50 Bleach
+RESTOCK 5 Portishead
+SALE 27 Nevermind
+SHOW_STOCK 0 Heaven or Las Vegas
+SALE 18 Heaven or Las Vegas
+RESTOCK 38 Debut
+RESTOCK 3 KiCk iiii
+RESTOCK 20 MAGDALENE
+SALE 16 KiCk iiii
+RESTOCK 6 Back to Black
+SHOW_STOCK 0 Portishead
+SALE 1 Bleach
+SHOW_STOCK 0 KiCk iiii
+SHOW_STOCK 0 Nevermind
+SALE 30 KiCk iiii
+SALE 36 Bleach
+SALE 49 Bleach
+RESTOCK 6 In Utero
+SALE 7 Bleach
+RESTOCK 26 The OOZ
+SHOW_STOCK 0 Bleach
+SALE 19 Back to Black
+RESTOCK 7 Grace
+SALE 39 SAWAYAMA
+SALE 3 SAWAYAMA
+SALE 3 Voulez-Vous
+SALE 31 Debut
+SALE 7 Heaven or Las Vegas
+SALE 12 MAGDALENE
+SALE 50 KiCk iiii
+RESTOCK 13 SAWAYAMA
+SALE 27 Portishead
+RESTOCK 5 Nevermind
+SALE 0 Voulez-Vous
+RESTOCK 44 MAGDALENE
+RESTOCK 2 10,000 gecs
+SALE 10 Portishead
+RESTOCK 44 Debut
+SALE 30 The OOZ
+SHOW_STOCK 0 In Utero
+SALE 39 Heaven or Las Vegas
+SALE 28 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 27 Voulez-Vous
+SHOW_STOCK 0 Voulez-Vous
+SALE 12 SAWAYAMA
+SALE 12 Debut
+SHOW_STOCK 0 MAGDALENE
+RESTOCK 35 Heaven or Las Vegas
+RESTOCK 39 Bleach
+SALE 25 Debut
+RESTOCK 46 Portishead
+SALE 23 Voulez-Vous
+SALE 29 10,000 gecs
+RESTOCK 14 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 21 10,000 gecs
+RESTOCK 27 MAGDALENE
+RESTOCK 44 SAWAYAMA
+SALE 18 In Utero
+SALE 46 KiCk iiii
+SALE 37 MAGDALENE
+SHOW_STOCK 0 The OOZ
+SALE 34 Nevermind
+SALE 8 10,000 gecs
+RESTOCK 43 Debut
+RESTOCK 43 Future Nostalgia
+SHOW_STOCK 0 Nevermind
+SALE 22 Future Nostalgia
+SHOW_STOCK 0 Bleach
+RESTOCK 9 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 36 MAGDALENE
+RESTOCK 6 The OOZ
+RESTOCK 26 10,000 gecs
+SALE 23 10,000 gecs
+SALE 35 Heaven or Las Vegas
+SALE 19 The OOZ
+SALE 17 Bleach
+SALE 31 Back to Black
+SALE 48 Future Nostalgia
+RESTOCK 12 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 42 10,000 gecs
+RESTOCK 5 Homogenic
+RESTOCK 45 Utopia
+RESTOCK 37 MAGDALENE
+RESTOCK 4 Voulez-Vous
+SALE 32 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 22 MAGDALENE
+SALE 49 Bleach
+SALE 29 Future Nostalgia
+RESTOCK 10 KiCk iiii
+RESTOCK 23 The OOZ
+SHOW_STOCK 0 how i'm feeling now
+SALE 22 how i'm feeling now
+RESTOCK 29 Grace
+SALE 34 Homogenic
+RESTOCK 46 10,000 gecs
+SHOW_STOCK 0 KiCk iiii
+RESTOCK 10 MAGDALENE
+RESTOCK 25 how i'm feeling now
+SALE 16 Debut
+RESTOCK 12 KiCk ii
+RESTOCK 17 Future Nostalgia
+SHOW_STOCK 0 how i'm feeling now
+SALE 40 Debut
+RESTOCK 40 Back to Black
+SALE 10 The OOZ
+RESTOCK 31 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 36 Back to Black
+RESTOCK 46 Future Nostalgia
+RESTOCK 30 MAGDALENE
+RESTOCK 22 Heaven or Las Vegas
+SALE 26 Nevermind
+SALE 50 In Utero
+SALE 31 Homogenic
+SALE 13 MAGDALENE
+RESTOCK 15 Bleach
+SALE 9 how i'm feeling now
+RESTOCK 5 Voulez-Vous
+RESTOCK 37 Charli
+SALE 5 Portishead
+SALE 43 Voulez-Vous
+RESTOCK 5 Nevermind
+SALE 40 MAGDALENE
+RESTOCK 7 Portishead
+RESTOCK 19 Back to Black
+RESTOCK 30 Charli
+SALE 24 Nevermind
+RESTOCK 42 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 4 how i'm feeling now
+RESTOCK 8 Portishead
+RESTOCK 0 MAGDALENE
+SALE 36 Voulez-Vous
+RESTOCK 48 6 Feet Beneath The Moon
+SALE 9 Nevermind
+RESTOCK 29 Back to Black
+RESTOCK 25 The OOZ
+SALE 36 Heaven or Las Vegas
+SALE 25 KiCk iiii
+SALE 16 Back to Black
+RESTOCK 28 MAGDALENE
+RESTOCK 25 6 Feet Beneath The Moon
+RESTOCK 33 In Utero
+SALE 18 Future Nostalgia
+SALE 24 Utopia
+RESTOCK 16 Back to Black
+SALE 44 Back to Black
+RESTOCK 4 Mezzanine
+SALE 1 Voulez-Vous
+RESTOCK 7 MAGDALENE
+RESTOCK 3 KiCk iiii
+SALE 0 Back to Black
+RESTOCK 2 Nevermind
+SHOW_STOCK 0 Portishead
+RESTOCK 8 6 Feet Beneath The Moon
+SALE 17 Portishead
+RESTOCK 4 Homogenic
+RESTOCK 46 Heaven or Las Vegas
+SALE 44 Homogenic
+RESTOCK 28 Mezzanine
+SALE 44 OIL OF EVERY PEARL'S UN-INSIDES
+RESTOCK 31 SAWAYAMA
+RESTOCK 3 KiCk iiii
+SALE 37 Debut
+SALE 43 Heaven or Las Vegas
+RESTOCK 11 how i'm feeling now
+SHOW_STOCK 0 Voulez-Vous
+RESTOCK 17 In Utero
+SALE 30 Future Nostalgia
+SALE 42 Debut
+RESTOCK 15 Charli
+RESTOCK 33 Heaven or Las Vegas
+SALE 17 Mezzanine
+SHOW_STOCK 0 Portishead
+RESTOCK 50 Post
+RESTOCK 36 Mezzanine
+SALE 18 Bleach
+SALE 36 Heaven or Las Vegas
+RESTOCK 11 SAWAYAMA
+RESTOCK 43 SAWAYAMA
+SALE 36 KiCk ii
+RESTOCK 23 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 25 10,000 gecs
+SALE 1 how i'm feeling now
+SHOW_STOCK 0 OIL OF EVERY PEARL'S UN-INSIDES
+SALE 11 Homogenic
+RESTOCK 33 Nevermind
+SALE 4 Debut
+SALE 45 10,000 gecs
+RESTOCK 14 In Utero
+SALE 16 Heaven or Las Vegas
+RESTOCK 48 how i'm feeling now
+SALE 11 Grace
+SALE 5 Homogenic
+SALE 42 SAWAYAMA
+RESTOCK 13 Bleach
+SALE 9 Grace
+RESTOCK 23 MAGDALENE
+SALE 36 Future Nostalgia
+RESTOCK 33 The OOZ
+RESTOCK 10 how i'm feeling now
+RESTOCK 17 The OOZ
+SHOW_STOCK 0 SAWAYAMA
+SALE 37 Heaven or Las Vegas
+RESTOCK 12 6 Feet Beneath The Moon
+SHOW_STOCK 0 SAWAYAMA
+SALE 11 SAWAYAMA
+RESTOCK 48 Post
+SALE 43 6 Feet Beneath The Moon
+RESTOCK 1 The OOZ
+SALE 21 MAGDALENE
+SALE 42 Voulez-Vous
+SALE 45 Back to Black
+RESTOCK 22 Utopia
+SALE 31 Debut
+SALE 16 Mezzanine
+SALE 30 The OOZ
+RESTOCK 8 Bleach
+RESTOCK 47 KiCk ii
+SALE 7 how i'm feeling now
+RESTOCK 41 Utopia
+RESTOCK 9 Future Nostalgia
+SALE 2 In Utero
+RESTOCK 24 MAGDALENE
+SALE 30 KiCk ii
+SALE 40 Homogenic
+SALE 20 Chromatica
+RESTOCK 12 KiCk iiii
+RESTOCK 21 Grace
+RESTOCK 47 KiCk iiii
+SALE 6 Chromatica
+RESTOCK 17 Back to Black
+SALE 49 Voulez-Vous
+SHOW_STOCK 0 KiCk ii
+SALE 14 Voulez-Vous
+RESTOCK 17 Back to Black
+SALE 1 The OOZ
+SALE 40 Mezzanine
+SALE 43 Grace
+SALE 42 Utopia
+SALE 50 MAGDALENE
+RESTOCK 38 SAWAYAMA
+SHOW_STOCK 0 10,000 gecs

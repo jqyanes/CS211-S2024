@@ -1,0 +1,67 @@
+Not enough stock of KiCk iiiii
+Not enough stock of Bleach
+Not enough stock of 6 Feet Beneath The Moon
+Not enough stock of Bleach
+Not enough stock of Homogenic
+Current stock of 6 Feet Beneath The Moon: 5
+Not enough stock of 6 Feet Beneath The Moon
+Resizing the table from 16 to 32
+Not enough stock of Bleach
+Not enough stock of KiCk iiiii
+Current stock of Stratosphere: 20
+Current stock of 6 Feet Beneath The Moon: 32
+Not enough stock of 6 Feet Beneath The Moon
+Not enough stock of Grace
+Not enough stock of Grace
+Current stock of 6 Feet Beneath The Moon: 0
+Not enough stock of Icedancer
+Resizing the table from 32 to 64
+Current stock of Heaven or Las Vegas: 48
+Current stock of Icedancer: 17
+Current stock of Utopia: 63
+Not enough stock of Icedancer
+Not enough stock of KiCk ii
+Not enough stock of Icedancer
+Not enough stock of Debut
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of Stratosphere
+Not enough stock of Nevermind
+Current stock of Icedancer: 17
+Not enough stock of Nevermind
+Current stock of Icedancer: 17
+Not enough stock of OIL OF EVERY PEARL'S UN-INSIDES
+Not enough stock of KiCk iiii
+Current stock of EXETER: 29
+Current stock of Homogenic: 53
+Current stock of Stratosphere: 20
+Not enough stock of Icedancer
+Current stock of Homogenic: 61
+Not enough stock of KiCk iiiii
+Not enough stock of SAWAYAMA
+Not enough stock of EXETER
+No stock of Charli
+Current stock of Debut: 164
+Not enough stock of Fossora
+Current stock of Portishead: 111
+-------- FINAL COUNTS --------
+6 Feet Beneath The Moon: 71
+KiCk iiiii: 1
+Bleach: 9
+Homogenic: 61
+OIL OF EVERY PEARL'S UN-INSIDES: 6
+Nevermind: 37
+Debut: 93
+KiCk ii: 127
+Stratosphere: 43
+Grace: 26
+Portishead: 85
+Utopia: 19
+Icedancer: 17
+Heaven or Las Vegas: 141
+SAWAYAMA: 20
+KiCk iiii: 5
+Fossora: 17
+EXETER: 29
+MAGDALENE: 40
+Charli: 27
+------------------------------

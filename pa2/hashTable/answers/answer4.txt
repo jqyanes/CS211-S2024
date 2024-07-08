@@ -1,0 +1,20 @@
+Resizing the table from 4 to 8
+Current stock of Back to Black: 40
+Not enough stock of Back to Black
+Resizing the table from 8 to 16
+Not enough stock of Voulez-Vous
+Not enough stock of Voulez-Vous
+Resizing the table from 16 to 32
+Not enough stock of Voulez-Vous
+No stock of KiCk i
+No stock of KiCk i
+-------- FINAL COUNTS --------
+Back to Black: 133
+Dummy: 62
+Vulnicura: 6
+Voulez-Vous: 10
+Icedancer: 47
+Utopia: 48
+Portishead: 0
+6 Feet Beneath The Moon: 2
+------------------------------
